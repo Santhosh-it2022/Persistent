@@ -1,6 +1,6 @@
 FROM openjdk:11
 
-COPY target/DockerDemo-0.0.1-SNAPSHOT.jar pesristentApp.jar
+COPY target/DockerDemo-0.0.1-SNAPSHOT.jar persistentApp.jar
 
 EXPOSE 8080
 
